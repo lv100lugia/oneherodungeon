@@ -1,6 +1,6 @@
 """
 
-1 card dungeon in pyhton
+1 hero dungeon in pyhton
 
 """
 print("Welcome to 1 card dungeon")
